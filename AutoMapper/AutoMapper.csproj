@@ -45,7 +45,10 @@
   <ItemGroup>
     <Compile Include="KeyVauleModel.cs" />
     <Compile Include="Mapper.cs" />
+<<<<<<< HEAD
     <Compile Include="Member.cs" />
+=======
+>>>>>>> be4fbb87325eea25295972b63c25e2eb5795186e
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Student.cs" />
